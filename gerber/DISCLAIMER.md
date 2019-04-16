@@ -1,7 +1,3 @@
-<img src="../images/pocaio.png" width="50%">
-
------
-
 ### Notice
 > Файлы gerber обновляются и предоставляются как есть.
 >
@@ -13,7 +9,7 @@
 
 ### Изображения платы
 
-| ![Board-Top](../images/Board-Top.png) | ![Board-Bottom](../images/Board-Bottom.png)|
+| ![Board-Top](/images/Board-Top-remix.png) | ![Board-Bottom](../images/Board-Bottom-remix.png)|
 |:--:|:--:|
 | *Board Top* |*Board Bottom*|
 
