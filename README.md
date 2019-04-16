@@ -2,6 +2,7 @@
 
 ### Gaboze Pocaio - Pocket All In One Remix
 Это переработанная версия оригинального проекта [Gaboze Pocaio - Pocket All In One](https://github.com/32teeth/GabozePocaio-Round1)
+Изменилось расположение кнопок, оно мне не нравилось в оригинальной плате. Теперь оно напоминает аркадные машины и геймпад sega Genesis.
 
 ### Features:
 
