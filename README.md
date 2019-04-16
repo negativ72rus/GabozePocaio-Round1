@@ -1,11 +1,11 @@
-## Introduction
+## Введение
 
-### Gaboze Pocaio - Pocket All In One
-Raspberry Pi Zero based arcade in you pocket, and in your Gameboy Pocket
+### Gaboze Pocaio - Pocket All In One Remix
+Это переработанная версия оригинального проекта [Gaboze Pocaio - Pocket All In One](https://github.com/32teeth/GabozePocaio-Round1)
 
 ### Features:
 
-* 2.4" TFT LCD
+* 2.6" TFT LCD
 * Gameboy button layout interface
 * Raspberry Pi Zero
 * Battery Charger (TP4056 Module)
@@ -17,12 +17,12 @@ Raspberry Pi Zero based arcade in you pocket, and in your Gameboy Pocket
 The boards have been tested with the following platforms:
 
 - [x] [Emulation Station](http://www.emulationstation.org/)
-- [x] [Lakka](http://www.lakka.tv/)
-### [Lakka for Gaboze Pocaio](https://github.com/32teeth/Lakka-For-Gaboze-Pocaio)
-| Out Now | Build Your Own | Out Soon |
-|:--:|:--:|:--:|
-| <img src=https://raw.githubusercontent.com/32teeth/Lakka-For-Gaboze-Pocaio/master/images/pocaio.jpg /> |<img src=https://raw.githubusercontent.com/32teeth/Lakka-For-Gaboze-Pocaio/master/images/pocaioplus.jpg /> |<img src=https://raw.githubusercontent.com/32teeth/Lakka-For-Gaboze-Pocaio/master/images/pocaiopia.jpg /> |
-| *Gaboze Pocaio* | *Gaboze Pocaio Plus* | *Gaboze Pocaio ???* |
+
+
+| Build Your Own |
+|:--:|
+| <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/01.jpg />|
+| *Gaboze Pocaio Plus REMIX* |
 
 - [x] [RetroPie](https://retropie.org.uk/)
 
