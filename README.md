@@ -10,7 +10,7 @@
 ### Особенности:
 
 * 2.6" TFT LCD (ILI9342)
-* Gameboy button layout interface
+* Gameboy button layout interface (like the Sega Genesis)
 * Raspberry Pi Zero
 * Battery Charger (TP4056 Module)
 * Headphone Jack (LM4857)
