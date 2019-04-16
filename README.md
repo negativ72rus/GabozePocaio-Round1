@@ -28,6 +28,3 @@ The boards have been tested with the following platforms:
 
 ## DIY
 > Хотите собрать такой? Читайте [Wiki](https://github.com/32teeth/GabozePocaio-Round1/wiki/) на странице оригинального проекта
-* [Preperation](https://github.com/32teeth/GabozePocaio-Round1/wiki/DIY---Preperation)
-* [Sound](https://github.com/32teeth/GabozePocaio-Round1/wiki/DIY---Sound-Components)
-* [Display](https://github.com/32teeth/GabozePocaio-Round1/wiki/DIY---TFT-Display)
