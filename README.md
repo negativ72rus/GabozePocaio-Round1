@@ -1,3 +1,4 @@
+<img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/48fc1c80-bfff-437e-8b99-f0b10b69bc4d.jpg />
 ## Введение
 
 ### Gaboze Pocaio - Pocket All In One Remix
@@ -26,10 +27,8 @@
 |:--:|
 | <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/5dfad1c0-3666-42fd-9e2d-157c800bff9a.jpg /> <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/530e06a1-0e55-4caf-964f-30db429e3765.jpg />|
 | Готовые платы |
-|:--:|
 | <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/d7906e50-9c4a-4548-8148-556dfa366432.jpg /> <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/b33c2b73-dc01-4825-a0e9-a02c31238bf1.jpg /> <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/d899d9f2-b9c3-4a82-85c9-15aa06289099.jpg />|
 | Действующий прототип |
-|:--:|
 | <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/01.jpg />|
 
 
