@@ -29,3 +29,4 @@
 
 ## DIY
 > Хотите собрать такой? Читайте [Wiki](https://github.com/32teeth/GabozePocaio-Round1/wiki/) на странице оригинального проекта
+> Преднастроенный образ ОС можно [скачать тут](http://gameboy.32teeth.org/)
