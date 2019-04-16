@@ -12,9 +12,9 @@
 * Headphone Jack (LM4857)
 * Speaker capability (LM4857)
 
-### Platforms:
+### Платформы:
 
-The boards have been tested with the following platforms:
+Плата тестировалась на совместимость со следующими платформами:
 
 - [x] [Emulation Station](http://www.emulationstation.org/)
 - [x] [RetroPie](https://retropie.org.uk/)
