@@ -1,4 +1,4 @@
-<img align="middle" src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/48fc1c80-bfff-437e-8b99-f0b10b69bc4d.jpg />
+![](../images/48fc1c80-bfff-437e-8b99-f0b10b69bc4d.jpg)
 
 ## Введение
 
