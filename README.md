@@ -7,7 +7,7 @@
 
 Изменилось расположение кнопок, оно мне не нравилось в оригинальной плате. Теперь оно напоминает аркадные машины и геймпад sega Genesis.
 
-### Features:
+### Особенности:
 
 * 2.6" TFT LCD (ILI9342)
 * Gameboy button layout interface
@@ -23,6 +23,7 @@
 - [x] [Emulation Station](http://www.emulationstation.org/)
 - [x] [RetroPie](https://retropie.org.uk/)
 
+### Разработка:
 
 | Новый дизайн |
 |:--:|
