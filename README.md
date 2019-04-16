@@ -7,7 +7,7 @@
 
 ### Features:
 
-* 2.6" TFT LCD
+* 2.6" TFT LCD (ILI9342)
 * Gameboy button layout interface
 * Raspberry Pi Zero
 * Battery Charger (TP4056 Module)
