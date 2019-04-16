@@ -22,10 +22,10 @@
 - [x] [RetroPie](https://retropie.org.uk/)
 
 
-| Действуйющий прототип |
-|:--:|
-| <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/01.jpg />|
-| *Gaboze Pocaio Plus REMIX* |
+| Новый дизайн | Действуйющий прототип |
+|:--:|:--:|
+| <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/5dfad1c0-3666-42fd-9e2d-157c800bff9a.jpg /> | <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/01.jpg />|
+| *Gaboze Pocaio Plus REMIX* | *Gaboze Pocaio Plus REMIX* |
 
 
 ## DIY
