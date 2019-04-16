@@ -34,6 +34,10 @@
 
 
 ## DIY
-> Хотите собрать такой? Читайте [Wiki](https://github.com/32teeth/GabozePocaio-Round1/wiki/) на странице оригинального проекта 
+> Хотите собрать такой? Читайте [Wiki](https://github.com/32teeth/GabozePocaio-Round1/wiki/) на странице оригинального проекта
+
+> `Gerber` файлы для заказа платы на производстве [тут](https://github.com/negativ72rus/GabozePocaio-Round1/tree/master/gerber)
+
+> Список компонентов [тут](https://github.com/negativ72rus/GabozePocaio-Round1/tree/master/bom)
 
 > Преднастроенный образ ОС можно [скачать тут](http://gameboy.32teeth.org/) (качать образ для PLUS версии)
