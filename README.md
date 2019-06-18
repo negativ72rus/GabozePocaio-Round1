@@ -33,7 +33,7 @@
 | Действующий прототип |
 | <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/01.jpg />|
 | Законченное устройство |
-| <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/0.jpg /> /n <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/0-1.jpg />|
+| <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/0.jpg /> <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/0-1.jpg />|
 
 
 ## DIY
