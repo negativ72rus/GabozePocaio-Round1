@@ -32,6 +32,8 @@
 | <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/d7906e50-9c4a-4548-8148-556dfa366432.jpg /> <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/b33c2b73-dc01-4825-a0e9-a02c31238bf1.jpg /> <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/d899d9f2-b9c3-4a82-85c9-15aa06289099.jpg />|
 | Действующий прототип |
 | <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/01.jpg />|
+| Законченное устройство |
+| <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/0.jpg /> /n <img src=https://github.com/negativ72rus/GabozePocaio-Round1/blob/master/images/0-1.jpg />|
 
 
 ## DIY
